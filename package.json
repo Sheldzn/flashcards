@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sheldzn.github.io/react-flashcards",
+  "homepage": "https://sheldzn.github.io/flashcards",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
