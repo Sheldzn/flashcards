@@ -1,4 +1,5 @@
-Flash Cards
+<1h>Flash Cards</h1>
+<hr>
 This project is part of a challenge recommended by Roadmap.sh, designed to help front-end developers understand state management and create reusable components with JavaScript frameworks.
 
 You can find the challenge here
