@@ -1,9 +1,9 @@
 <h1>Flash Cards</h1>
 <hr>
 This project is part of a challenge recommended by Roadmap.sh, designed to help front-end developers understand state management and create reusable components with JavaScript frameworks - I used React.
-
-You can find the challenge here
-
+<br>
+You can find the challenge <a href="https://roadmap.sh/projects/flash-cards" target="_blank">here</a>
+<br>
 Requirements
 <ul>
  <li>Pre-defined flashcards with questions and answers</li>
